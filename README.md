@@ -8,8 +8,9 @@ Funciones:
 - Desempaquetador
 - Empaquetador
 - Reemplazador de archivo específico
+- Extractor de Archivo/carpeta específico
 - TEX/DDS (convertidor de .tex a .dds o viceversa, recordar guardar como BC3 DXT5 en tu programa gráfico de preferencia)
 
 
 ---
-![Screenshot 55](https://i.imgur.com/FE4mylc.png)
+![Screenshot 55](https://i.imgur.com/oJvsoAh.png)
