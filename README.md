@@ -16,6 +16,7 @@ TO DO (para v1.0)
 - Agregar visualización de miras (mira normal y telescópica) con posibilidad de reemplazo
 - Búsqueda de archivo/carpeta específico
 - Añadir y Eliminar archivos/carpetas directamente al/del demo.vpk
+- Versión del programa
 
 
 ---
