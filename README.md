@@ -12,4 +12,4 @@ Funciones:
 
 
 ---
-![Screenshot 55](https://i.imgur.com/UTtbIFO.png)
+![Screenshot 55](https://i.imgur.com/FE4mylc.png)
