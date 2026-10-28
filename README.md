@@ -14,6 +14,7 @@ Funciones:
 TO DO:
 - Acomodar la interfaz
 - Agregar visualización de miras (mira normal y telescópica) con posibilidad de reemplazo
+- Búsqueda de archivo/carpeta específico
 
 
 ---
