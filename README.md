@@ -19,6 +19,7 @@ TO DO (para v1.0)
 - Copia de seguridad (.bak) automática del demo.vpk al realizar algún cambio directo
 - Visor de texturas
 - Versión del programa
+- Ejecutable .exe
 
 
 ---
