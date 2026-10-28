@@ -11,7 +11,7 @@ Funciones:
 - Extractor de Archivo/carpeta específico (uno o múltiples archivos)
 - TEX/DDS (convertidor de .tex a .dds o viceversa, recordar guardar como BC3 DXT5 en tu programa gráfico de preferencia)
 
-TO DO:
+TO DO (para v1.0)
 - Acomodar la interfaz
 - Agregar visualización de miras (mira normal y telescópica) con posibilidad de reemplazo
 - Búsqueda de archivo/carpeta específico
