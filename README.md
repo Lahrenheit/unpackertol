@@ -17,6 +17,7 @@ TO DO (para v1.0)
 - Búsqueda de archivo/carpeta específico
 - Añadir y Eliminar archivos/carpetas directamente al/del demo.vpk
 - Copia de seguridad (.bak) automática del demo.vpk al realizar algún cambio directo
+- Visor de texturas
 - Versión del programa
 
 
