@@ -22,3 +22,5 @@ Funciones:
 
 ---
 ![Screenshot 55](https://i.imgur.com/583xnoc.png)
+---
+Versión .exe realizada con auto-py-to-exe
