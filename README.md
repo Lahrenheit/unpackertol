@@ -2,7 +2,7 @@
 
 Versión del unpaker ahora en python
 
-[v1.0] Funciones:
+Funciones:
 - Lector
 - Enumerador
 - Desempaquetador (de demo.vpk entero)
@@ -17,4 +17,4 @@ Versión del unpaker ahora en python
 
 
 ---
-![Screenshot 55](https://i.imgur.com/GhxGDLW.png)
+![Screenshot 55](https://i.imgur.com/1YeKzl7.png)
