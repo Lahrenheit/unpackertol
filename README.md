@@ -4,7 +4,7 @@
 ![Tamaño del repo](https://img.shields.io/github/repo-size/Lahrenheit/unpackertol?style=flat) ![Última versión](https://img.shields.io/github/v/release/Lahrenheit/unpackertol?style=flat&color=success)
 ![Descargas totales](https://img.shields.io/github/downloads/Lahrenheit/unpackertol/total?style=flat&color=blue)
 
-Versión del unpaker ahora en python
+Versión del unpaker ahora en python con más utilidades agregadas
 
 Funciones:
 - Lector
