@@ -21,4 +21,4 @@ Funciones:
 
 
 ---
-![Screenshot 55](https://i.imgur.com/1YeKzl7.png)
+![Screenshot 55](https://i.imgur.com/583xnoc.png)
