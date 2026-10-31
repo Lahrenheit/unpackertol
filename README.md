@@ -1,10 +1,10 @@
-# <img src="https://i.imgur.com/DGVSxJL.png" width="50" height="50"/> VPK Unpacker Tool v1.0 - Torrente On-Line 
+# <img src="https://i.imgur.com/DGVSxJL.png" width="50" height="50"/> VPK Unpacker Tool v1.0
 
 ![Stars](https://img.shields.io/github/stars/Lahrenheit/unpackertol?style=flat&label=Stars&color=ff69b4) ![Forks](https://img.shields.io/github/forks/Lahrenheit/unpackertol?style=flat&label=Forks&color=orange) ![Watchers](https://img.shields.io/github/watchers/Lahrenheit/unpackertol?style=flat&label=Watchers&color=blue)
 ![Tamaño del repo](https://img.shields.io/github/repo-size/Lahrenheit/unpackertol?style=flat) ![Última versión](https://img.shields.io/github/v/release/Lahrenheit/unpackertol?style=flat&color=success)
 ![Descargas totales](https://img.shields.io/github/downloads/Lahrenheit/unpackertol/total?style=flat&color=blue)
 
-Versión del unpaker ahora en python con más utilidades agregadas
+Versión del unpaker ahora en python con más utilidades agregadas, para Torrente On-Line
 
 Funciones:
 - Lector
