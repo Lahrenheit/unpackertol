@@ -21,6 +21,6 @@ Funciones:
 
 
 ---
-![Screenshot 55](https://i.imgur.com/583xnoc.png)
+![Screenshot 55](https://raw.githubusercontent.com/Lahrenheit/unpackertol/refs/heads/main/preview.png)
 ---
 Versión .exe realizada con auto-py-to-exe
