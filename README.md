@@ -6,7 +6,7 @@
 
 Versión del unpaker ahora en python con más utilidades agregadas, para Torrente On-Line
 
-Funciones:
+Funciones (v1.0):
 - Lector
 - Enumerador
 - Desempaquetador (de demo.vpk entero)
