@@ -6,7 +6,7 @@
 
 Versión del unpaker ahora en python con más utilidades agregadas, para Torrente On-Line
 
-🌐 **[Español](#español) · [Português](#português) · [English](#english)**
+🌐 **[Español](#español) · [English](#english) · [Português](#português)**
 
 ---
 **Vista previa del programa:**
@@ -16,7 +16,7 @@ Versión del unpaker ahora en python con más utilidades agregadas, para Torrent
 ---
 
 <a name="español"></a>
-## 🇪🇸 Español
+## Español
 
 Herramienta en Python para **desempaquetar, empaquetar y editar** el archivo `demo.vpk` de **Torrente Online** (formato `vtPack`), con una interfaz gráfica inspirada en el UnpaKer original. La interfaz está disponible en Español, Português e English.
 
@@ -78,7 +78,7 @@ python vpk_tool.py menu                                  # menú de texto
 ---
 
 <a name="português"></a>
-## 🇧🇷 Português
+## Português
 
 Ferramenta em Python para **desempacotar, empacotar e editar** o arquivo `demo.vpk` do **Torrente Online** (formato `vtPack`), com uma interface gráfica inspirada no UnpaKer original. A interface está disponível em Español, Português e English.
 
@@ -140,7 +140,7 @@ python vpk_tool.py menu                                  # menu de texto
 ---
 
 <a name="english"></a>
-## 🇬🇧 English
+## English
 
 A Python tool to **unpack, pack and edit** Torrente Online's `demo.vpk` file (`vtPack` format), with a graphical interface inspired by the original UnpaKer. The interface is available in Español, Português and English.
 
