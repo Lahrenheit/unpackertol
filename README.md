@@ -11,7 +11,7 @@ Versión del unpaker ahora en python con más utilidades agregadas, para Torrent
 ---
 **Vista previa del programa:**
 
-![Screenshot 55](https://raw.githubusercontent.com/Lahrenheit/unpackertol/refs/heads/main/preview1.1.png)
+![Screenshot 55](https://raw.githubusercontent.com/Lahrenheit/unpackertol/refs/heads/main/p1.png)
 
 ---
 
